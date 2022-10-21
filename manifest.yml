@@ -2,4 +2,4 @@
 applications:
  - name: movies-reviews-database-1c6
    random-route: false
-   memory: 128M
+   memory: 1GB
